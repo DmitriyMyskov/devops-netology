@@ -1,1 +1,3 @@
-create file to IDE
+create file in IDE
+
+push file to GH from IDE
